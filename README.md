@@ -1,5 +1,5 @@
-**Shopping Mall Management System
-**
+**Shopping Mall Management System**
+
 **Overview**
 This project is a Shopping Mall Management System built using Spring Boot, Java, MySQL, and Postman for testing RESTful APIs. It demonstrates a full CRUD (Create, Read, Update, Delete) functionality for managing different aspects of a shopping mall, such as shops, employees, customers, and products.
 
